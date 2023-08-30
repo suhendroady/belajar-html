@@ -19,9 +19,9 @@ Minimum Requirements
 *******************
 
 Kebutuhan yang harus dimiliki untuk menjalankan HTML yakni:
--  Laptop / Komputer
--  Code Editor (Visual Studio Code)
--  Web Browser (Google Chrome, Mozilla Firefox, Edge)
+-  `Laptop / Komputer`
+-  `Code Editor (Visual Studio Code)`
+-  `Web Browser (Google Chrome, Mozilla Firefox, Edge)`
 
 
 *********
