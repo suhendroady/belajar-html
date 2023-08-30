@@ -1,1 +1,7 @@
 Repositori ini berisi latihan dasar HTML untuk penerapan TAG FORM HTML.
+
+Untuk latihan script form html, dapat di buka melalui link berikut:
+https://github.com/suhendroady/belajar-html/blob/main/form/form-script.jpg
+
+Untuk melihat hasil dari script latihan tersebut dapat dilihat pada link berikut:
+https://github.com/suhendroady/belajar-html/blob/main/form/form-hasil.png
